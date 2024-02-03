@@ -1,0 +1,73 @@
+swiper-container {
+    background-color: #ffffff;
+    width: 100%;
+    height: 100%;
+  }
+    
+  swiper-slide {
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .help_text{
+    text-align: center;
+  }
+  
+  .red-title {
+    text-align: center;
+   color: #af0101;
+   Font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+   font-size: 42px;
+   margin: 5px;
+  } 
+
+  .parrafo {
+    text-align: center;
+  }
+
+  .img {
+    margin: auto;
+    width: 30px;
+    height: 30px;
+  }
+  .slide-1 {
+    text-align: center;
+    margin: 0;
+    background: no-repeat;
+  
+  }
+  .slide-2 {
+    margin: 0;
+    background: no-repeat;
+    text-align: center;
+
+
+  }
+  .slide-3 {
+    margin: 0;
+    background: no-repeat;
+    text-align: center;
+
+
+  }
+  .slide-4 {
+    margin: 0;
+    background: no-repeat;
+    text-align: center;
+
+
+  }
+  
+  ion-button {
+    width: 5px;
+    height: 5px;
+    --background: #af0101;
+    position: fixed;
+    right: 5%;
+    top: 0%;
+    margin:10px;
+
+  }
